@@ -4,7 +4,7 @@
 - 💻 I love doing problem-solving and learning new algorithms.
 - 🌱 I'm exploring different fields in software development, Devops and learning new skills.
 - ⚡ Hobby - Watching anime and cricket
-- 📫 You can contact me through email - furqana405@gmail.com@gmail.com
+- 📫 You can contact me through email - furqana405@gmail.com
 - Portfolio - https://furqanahmad2.github.io/
 
 

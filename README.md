@@ -1,4 +1,4 @@
-### Hi Geek!! 
+### Hi Geeks!! 
 
 - 👋 I’m Furqan Ahmad, Final year Undergraduate at Fast-Nuces.
 - 💻 I love doing problem-solving and learning new algorithms.

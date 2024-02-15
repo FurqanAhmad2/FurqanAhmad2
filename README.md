@@ -11,7 +11,7 @@
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/furqan-ahmad-862937212/)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/mr_furqanahmad?igsh=MjhyZ3JtMzV4Z21n)
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AStack_Overflow_icon.svg&psig=AOvVaw0yDA7c_bnZrprkMxJ1sm6g&ust=1708058719053000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCej9vErIQDFQAAAAAdAAAAABAE" />](https://stackoverflow.com/users/20940305/furqan-ahmad)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/FurqanA19040101)
 
   
 ### My Coding Profiles

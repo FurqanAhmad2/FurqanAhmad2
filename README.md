@@ -2,7 +2,7 @@
 
 - 👋 I’m Furqan Ahmad, Final year Undergraduate at Fast-Nuces.
 - 💻 I love doing problem-solving and learning new algorithms.
-- 🌱 I'm exploring different fields in software development, Devops and learning new skills.
+- 🌱 I'm exploring different fields in software development, Machine Learning and Data Science.
 - ⚡ Hobby - Watching anime and cricket
 - 📫 You can contact me through email - furqana405@gmail.com
 - Portfolio - https://furqanahmad2.github.io/

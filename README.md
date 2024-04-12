@@ -5,7 +5,7 @@
 - 🌱 I'm exploring different fields in software development, Machine Learning and Data Science.
 - ⚡ Hobby - E-Gaming And Tech Videos
 - 📫 You can contact me through email - furqana405@gmail.com
-- Portfolio - https://furqanahmad2.github.io/
+- Portfolio - https://furqandexterity.vercel.app/
 
 
 ### My Social Media Handles
